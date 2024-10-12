@@ -1,0 +1,27 @@
+.abt{
+    margin-top: 10%;
+}
+.abt h2{
+    text-align: center;
+    font-size: 4rem;
+    margin: 3rem;
+    font-weight: 600;
+}
+.about{
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+}
+.about img{
+    width: 450px;
+    height: 450px;
+}
+.rightabout{
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+}
+.rightabout p ,a{
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}

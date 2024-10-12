@@ -1,0 +1,32 @@
+.foot{
+    margin: 3rem 0rem;
+    display: flex;
+}
+.left-foot{
+    width: 40%;
+}
+.left-foot h3{
+    font-size: 2rem;
+    font-weight: 600;
+}
+.left-foot p{
+    font-size: 1.2rem;
+}
+.inp{
+    font-size: 2rem;
+}
+.right-foot{
+    display: flex;
+    width: 60%;
+    height: auto;
+    justify-content: flex-end;
+}
+.right-foot .btn{
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+}
+.para{
+    font-size: 2rem;
+    text-align: center;
+    padding: 1rem;
+}

@@ -1,0 +1,50 @@
+.contact{
+    margin-top: 10%;
+}
+.contact h2{
+    text-align: center;
+    font-size: 4rem;
+    margin: 3rem;
+    font-weight: 600;
+}
+.contact-cnt{
+    display: flex;
+    justify-content: space-between;
+}
+.left-c{
+    width: 50%;
+}
+.left-c h3{
+    font-size: 3rem;
+    font-weight: 600;
+    margin: 2rem 0rem;
+}
+.left-c p{
+    font-size: 1.2rem;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    margin: 1rem 0rem;
+    cursor: pointer;
+}
+.icons img{
+    width: 30px;
+}
+.icons p{
+    font-size: 1.2rem;
+    padding-top: 1rem;
+    margin-left: 2rem;
+    
+}
+.right-c{
+    width: 40%;
+    margin: 2rem 0rem;
+}
+.gg{
+    font-size: 2rem;
+    font-weight: 600;
+}
+.gh{
+    font-size: 1.6rem;
+}

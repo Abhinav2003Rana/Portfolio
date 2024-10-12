@@ -1,0 +1,28 @@
+.hero-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+.hero-cont img{
+    width: 260px;
+    border-radius: 100%;
+    cursor: pointer;
+}
+.hero-cont h1{
+    text-align: center;
+    max-width: 60%;
+    font-size: 5rem;
+    font-weight: 600;
+}
+.hero-cont span{
+    color: red;
+}
+.hero-cont p{
+    font-size: 1.4rem;
+}
+.cont-btn button{
+    margin: .5rem;
+    font-size: 1.4rem;
+}
